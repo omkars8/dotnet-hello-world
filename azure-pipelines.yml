@@ -6,7 +6,8 @@
 trigger:
 - none
 
-pool: linux-agents
+pool: 
+  vmImage: ubuntu-latest
 
 
 variables:
